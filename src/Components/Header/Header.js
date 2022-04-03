@@ -26,11 +26,11 @@ export default ()=> {
                  Help
                 </a>
               </div>
-                <Link to="/signup">
+                {/* <Link to="/signup">
                   <div class="inline-block text-sm px-4 py-2 leading-none border-none rounded text-white border-white hover:border-transparent hover:text-teal-100 hover:bg-red-600 mt-4 mr-2 lg:mt-0" style={{"background-color": "#eb3656"}}>
                     <p>Sign In</p>
                   </div>
-                </Link>
+                </Link> */}
             </div>
           </nav>
     </header>
